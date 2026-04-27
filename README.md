@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27110438/README.md)
 # FinWork Portal — Job Portal Finance Indonesia
 
 Portal lowongan kerja khusus bidang keuangan, perbankan, dan fintech yang dibangun dengan Next.js 14, Tailwind CSS, dan Supabase.
